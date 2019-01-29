@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\obj\Debug\Vehicle_290119.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\obj\Debug\Vehicle_290119.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\bin\Debug\Vehicle_290119.exe.config
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\bin\Debug\Vehicle_290119.exe
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\bin\Debug\Vehicle_290119.pdb
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\obj\Debug\Vehicle_290119.exe
+C:\Users\USER\Desktop\c#\projects\Vehicle_290119\Vehicle_290119\obj\Debug\Vehicle_290119.pdb
